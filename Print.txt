@@ -1,0 +1,10 @@
+Level = 2
+Selected Character Class = bard
+Attribute Names = [[Strength], [Dexterity], [Consitution], [Intelligence], [Wisdom], [Charisma]]
+Attribute Scores = [13, 10, 12, 14, 13, 15]
+Bonus = [1, 0, 1, 2, 1, 2]
+Hitpoints = 5
+Base Attack Points = 1.0
+Skill Points = 8.0
+Selected Skills = [1. Acrobatics, 2. Animal handling]Rank = [1.0, 1.0]
+State Affinity = 5
