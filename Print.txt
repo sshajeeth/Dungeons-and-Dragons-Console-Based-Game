@@ -1,4 +1,4 @@
-Level = 2
+Level = 5
 Selected Character Class = bard
 Attribute Names = [[Strength], [Dexterity], [Consitution], [Intelligence], [Wisdom], [Charisma]]
 Attribute Scores = [13, 10, 12, 14, 13, 15]
